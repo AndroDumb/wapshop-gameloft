@@ -22,36 +22,36 @@
     </head>
     <body>
         <div id="banner">
-    <a href="/mtk_mc5/index.php?phoneId=1402&amp;c=73&amp;sv=128gqvdvh2q0xhkaz30qwe2ov" title="Gameloft HD Games for Android - Top Android Games">
+    <a href="/mtk_mc5/index.php" title="Gameloft HD Games for Android - Top Android Games">
         <img src="/mtk_mc5/images/gl_banner.gif" alt="Gameloft HD Games for Android - Top Android Games">
     </a>
 </div>
 <div class="clear"></div><div id="nav">
             <table>
                 <tr>
-                    <td style="width: 25%" class=""><a href="index.php?phoneId=1402&amp;sv=128gqvdvh2q0xhkaz30qwe2ov&amp;c=73" title="Home">Home</a></td><td style="width: 25%" class=""><a href="trailer.php?phoneId=1402&amp;sv=128gqvdvh2q0xhkaz30qwe2ov&amp;c=73" title="Trailer">Trailer</a></td><td style="width: 25%" class=""><a href="images.php?phoneId=1402&amp;sv=128gqvdvh2q0xhkaz30qwe2ov&amp;c=73" title="Images">Images</a></td><td style="width: 25%" class=""><a href="download_page.php?phoneId=1402&amp;sv=128gqvdvh2q0xhkaz30qwe2ov&amp;c=73" title="Download">Download</a></td>
+                    <td style="width: 25%" class=""><a href="index.php" title="Home">Home</a></td><td style="width: 25%" class=""><a href="trailer.php" title="Trailer">Trailer</a></td><td style="width: 25%" class=""><a href="images.php" title="Images">Images</a></td><td style="width: 25%" class=""><a href="download_page.php" title="Download">Download</a></td>
                 </tr>
             </table>
         </div>
         <div class="clear"></div><div id="banner">
-    <a href="index.php?phoneId=1402&amp;sv=128gqvdvh2q0xhkaz30qwe2ov&amp;c=73" title="Gameloft">
+    <a href="index.php" title="Gameloft">
         <img src="images/MC5_cs.gif" alt="Gameloft">
     </a>
 </div>
-<div class="clear"></div><div class="delimiter_6"></div><div id="bottom_nav"><div class="entry"><a href="trailer.php?phoneId=1402&amp;sv=128gqvdvh2q0xhkaz30qwe2ov&amp;c=73" title="Trailer..."><span class="nav_arrow"></span><span class="text">Trailer...</span></a></div></div><div class="gameBlockIndex" onclick="javascript:location.href='trailer.php?phoneId=1402&amp;sv=128gqvdvh2q0xhkaz30qwe2ov&amp;c=73';">
+<div class="clear"></div><div class="delimiter_6"></div><div id="bottom_nav"><div class="entry"><a href="trailer.php" title="Trailer..."><span class="nav_arrow"></span><span class="text">Trailer...</span></a></div></div><div class="gameBlockIndex" onclick="javascript:location.href='trailer.php';">
                                         <img src="/mtk_mc5/images/1.png" alt="1" class="gameImg" />
                                         <div class="gameBlockDer">
                                             <div class="inGameBlockDer">
-                                                <div class="gameTitle"><a href="trailer.php?phoneId=1402&amp;sv=128gqvdvh2q0xhkaz30qwe2ov&amp;c=73" title="Gameloft:">Gameloft:</a></div>
-                                                <div class="gameDescription"><a href="trailer.php?phoneId=1402&amp;sv=128gqvdvh2q0xhkaz30qwe2ov&amp;c=73">MODERN COMBAT 5</a></div>
+                                                <div class="gameTitle"><a href="trailer.php" title="Gameloft:">Gameloft:</a></div>
+                                                <div class="gameDescription"><a href="trailer.php">MODERN COMBAT 5</a></div>
                                             </div>
                                         </div>
-                                    </div><div class="delimiter_6"></div><div class="gameBlockIndex" onclick="javascript:location.href='trailer.php?phoneId=1402&amp;trailer=mediatek&amp;sv=128gqvdvh2q0xhkaz30qwe2ov&amp;c=73';">
+                                    </div><div class="delimiter_6"></div><div class="gameBlockIndex" onclick="javascript:location.href='trailer.php';">
                                         <img src="/mtk_mc5/images/2.png" alt="2" class="gameImg" />
                                         <div class="gameBlockDer">
                                             <div class="inGameBlockDer">
-                                                <div class="gameTitle"><a href="trailer.php?phoneId=1402&amp;trailer=mediatek&amp;sv=128gqvdvh2q0xhkaz30qwe2ov&amp;c=73" title="Mediatek:">Mediatek:</a></div>
-                                                <div class="gameDescription"><a href="trailer.php?phoneId=1402&amp;trailer=mediatek&amp;sv=128gqvdvh2q0xhkaz30qwe2ov&amp;c=73">Enjoy the power of 8
+                                                <div class="gameTitle"><a href="trailer.php" title="Mediatek:">Mediatek:</a></div>
+                                                <div class="gameDescription"><a href="trailer.php">Enjoy the power of 8
 <br/>
 
 The MT6592 is the world’s first heterogeneous computing SOC with scalable eight-core...</a></div>
@@ -121,4 +121,5 @@ The MT6592 is the world’s first heterogeneous computing SOC with scalable eigh
                     </script>
     </body>
 </html>
+
 
