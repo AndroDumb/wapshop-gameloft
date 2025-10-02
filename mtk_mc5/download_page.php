@@ -3,27 +3,28 @@
 <html>
     <head>
         <title>Gameloft Store</title>
-        <link rel="stylesheet" type="text/css" href="http://wapshop.gameloft.com/mtk_mc5/css/reset.css">
-        <link rel="stylesheet" type="text/css" href="http://wapshop.gameloft.com/mtk_mc5/css/style.css">
+        <link rel="stylesheet" type="text/css" href="/mtk_mc5/css/reset.css">
+        <link rel="stylesheet" type="text/css" href="/mtk_mc5/css/style.css">
 		
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-        <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/jquery.js"></script>
-        <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/cookies.js"></script>
-        <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/responsivePaginate.js"></script>
-        <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/jcarousellite.1.0.1.pack.js"></script>
-                <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/index_carousel.js"></script>
+        <script type="text/javascript" src="/mtk_mc5/js/jquery.js"></script>
+        <script type="text/javascript" src="/mtk_mc5/js/cookies.js"></script>
+        <script type="text/javascript" src="/mtk_mc5/js/responsivePaginate.js"></script>
+        <script type="text/javascript" src="/mtk_mc5/js/jcarousellite.1.0.1.pack.js"></script>
+                <script type="text/javascript" src="/mtk_mc5/js/index_carousel.js"></script>
                 </script>
-    <link rel="canonical" href="http://wapshop.gameloft.com/mtk_mc5/"/>
+    <link rel="canonical" href="/mtk_mc5/"/>
     <meta name="title" content="Gameloft Android Games. Download Top HD Games for Android." />
     <meta name="description" content="Download Gameloft games for Android in HD. The highest-quality gaming experience for Android smartphones." />
     <meta name="keywords" content="android games, download android games, gameloft android games, gameloft android, android game" />
+
     
     </head>
     <body>
         <div id="banner">
-    <a href="http://wapshop.gameloft.com/mtk_mc5/index.php?phoneId=1402&amp;c=73&amp;sv=128gqvdvk9gcncxt53o1d5w9h" title="Gameloft HD Games for Android - Top Android Games">
-        <img src="http://wapshop.gameloft.com/mtk_mc5/images/gl_banner.gif" alt="Gameloft HD Games for Android - Top Android Games">
+    <a href="/mtk_mc5/index.php?phoneId=1402&amp;c=73&amp;sv=128gqvdvk9gcncxt53o1d5w9h" title="Gameloft HD Games for Android - Top Android Games">
+        <img src="/mtk_mc5/images/gl_banner.gif" alt="Gameloft HD Games for Android - Top Android Games">
     </a>
 </div>
 <div class="clear"></div><div id="nav">
@@ -75,7 +76,7 @@
                 });
 
                 </script>
-                    <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/carousel.js"></script>
+                    <script type="text/javascript" src="/mtk_mc5/js/carousel.js"></script>
                     <script type="text/javascript">
                         window.onload = function() {
                             new Carousel({
