@@ -3,27 +3,28 @@
 <html>
     <head>
         <title>Gameloft Store</title>
-        <link rel="stylesheet" type="text/css" href="http://wapshop.gameloft.com/mtk_mc5/css/reset.css">
-        <link rel="stylesheet" type="text/css" href="http://wapshop.gameloft.com/mtk_mc5/css/style.css">
+        <link rel="stylesheet" type="text/css" href="/mtk_mc5/css/reset.css">
+        <link rel="stylesheet" type="text/css" href="/mtk_mc5/css/style.css">
 		
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-        <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/jquery.js"></script>
-        <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/cookies.js"></script>
-        <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/responsivePaginate.js"></script>
-        <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/jcarousellite.1.0.1.pack.js"></script>
-                <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/index_carousel.js"></script>
+        <script type="text/javascript" src="/mtk_mc5/js/jquery.js"></script>
+        <script type="text/javascript" src="/mtk_mc5/js/cookies.js"></script>
+        <script type="text/javascript" src="/mtk_mc5/js/responsivePaginate.js"></script>
+        <script type="text/javascript" src="/mtk_mc5/js/jcarousellite.1.0.1.pack.js"></script>
+                <script type="text/javascript" src="/mtk_mc5/js/index_carousel.js"></script>
                 </script>
-    <link rel="canonical" href="http://wapshop.gameloft.com/mtk_mc5/"/>
+    <link rel="canonical" href="/mtk_mc5/"/>
     <meta name="title" content="Gameloft Android Games. Download Top HD Games for Android." />
     <meta name="description" content="Download Gameloft games for Android in HD. The highest-quality gaming experience for Android smartphones." />
     <meta name="keywords" content="android games, download android games, gameloft android games, gameloft android, android game" />
+
     
     </head>
     <body>
         <div id="banner">
-    <a href="http://wapshop.gameloft.com/mtk_mc5/index.php?phoneId=1402&amp;c=73&amp;sv=128gqvdvknmfy8x6mujyggsgn" title="Gameloft HD Games for Android - Top Android Games">
-        <img src="http://wapshop.gameloft.com/mtk_mc5/images/gl_banner.gif" alt="Gameloft HD Games for Android - Top Android Games">
+    <a href="/mtk_mc5/index.php?phoneId=1402&amp;c=73&amp;sv=128gqvdvknmfy8x6mujyggsgn" title="Gameloft HD Games for Android - Top Android Games">
+        <img src="/mtk_mc5/images/gl_banner.gif" alt="Gameloft HD Games for Android - Top Android Games">
     </a>
 </div>
 <div class="clear"></div><div id="nav">
@@ -33,7 +34,7 @@
                 </tr>
             </table>
         </div>
-        <div class="clear"></div><div class="carousel main" id="screenshot_container" style="width: 314px !important;"><div class="jCarouselLite" style="visibility: visible; overflow: hidden; position: relative; z-index: 2; left: 0px; width: 314px; height: auto;"><ul style="margin: 0pt; padding: 0pt; position: relative; list-style-type: none; z-index: 1; width: 2890px; left: -850px;"><li style="overflow: hidden; width: 314px; float: left; "><img width = "300px" id="img-1" src="http://wapshop.gameloft.com/mtk_mc5/images/1.jpg" /></li><li style="overflow: hidden; width: 314px; float: left; "><img width = "300px" id="img-2" src="http://wapshop.gameloft.com/mtk_mc5/images/2.jpg" /></li><li style="overflow: hidden; width: 314px; float: left; "><img width = "300px" id="img-3" src="http://wapshop.gameloft.com/mtk_mc5/images/3.jpg" /></li><li style="overflow: hidden; width: 314px; float: left; "><img width = "300px" id="img-4" src="http://wapshop.gameloft.com/mtk_mc5/images/4.jpg" /></li><li style="overflow: hidden; width: 314px; float: left; "><img width = "300px" id="img-5" src="http://wapshop.gameloft.com/mtk_mc5/images/5.jpg" /></li></ul></div><div class="prev"></div><div class="next"></div><div class="clear"></div></div><div class="delimiter_6"></div><div class="delimiter_6"></div><div class="delimiter_6"></div><div align="center">© 2014 Gameloft. All Rights Reserved. <br/>Gameloft, the Gameloft logo are trademarks of Gameloft in the US and/or other countries.</div>
+        <div class="clear"></div><div class="carousel main" id="screenshot_container" style="width: 314px !important;"><div class="jCarouselLite" style="visibility: visible; overflow: hidden; position: relative; z-index: 2; left: 0px; width: 314px; height: auto;"><ul style="margin: 0pt; padding: 0pt; position: relative; list-style-type: none; z-index: 1; width: 2890px; left: -850px;"><li style="overflow: hidden; width: 314px; float: left; "><img width = "300px" id="img-1" src="/mtk_mc5/images/1.jpg" /></li><li style="overflow: hidden; width: 314px; float: left; "><img width = "300px" id="img-2" src="/mtk_mc5/images/2.jpg" /></li><li style="overflow: hidden; width: 314px; float: left; "><img width = "300px" id="img-3" src="/mtk_mc5/images/3.jpg" /></li><li style="overflow: hidden; width: 314px; float: left; "><img width = "300px" id="img-4" src="/mtk_mc5/images/4.jpg" /></li><li style="overflow: hidden; width: 314px; float: left; "><img width = "300px" id="img-5" src="/mtk_mc5/images/5.jpg" /></li></ul></div><div class="prev"></div><div class="next"></div><div class="clear"></div></div><div class="delimiter_6"></div><div class="delimiter_6"></div><div class="delimiter_6"></div><div align="center">© 2014 Gameloft. All Rights Reserved. <br/>Gameloft, the Gameloft logo are trademarks of Gameloft in the US and/or other countries.</div>
         <div class="footer"></div>
                 <script type="text/javascript" language="JavaScript">
                 $(function() {
@@ -70,7 +71,7 @@
                 });
 
                 </script>
-                    <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/carousel.js"></script>
+                    <script type="text/javascript" src="/mtk_mc5/js/carousel.js"></script>
                     <script type="text/javascript">
                         window.onload = function() {
                             new Carousel({
