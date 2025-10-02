@@ -41,12 +41,12 @@
 <br/></div></font><div align="center"><br/><b>The MT6592 is the world’s first heterogeneous computing SOC with scalable eight-core processing for superior multi-tasking, industry-leading multimedia and excellent performance-per-watt.
 <br/>
 <br
-Building on the advanced 28nm HPM high-performance process, the MT6592 has eight CPU cores, each capable of clock speeds up to 2GHz. The true octa-core architecture is fully scalable, and the MT6592 runs both low-power and more demanding tasks equally effectively by harnessing the full capabilities of all eight cores in any combination. An advanced MediaTek scheduling algorithm also monitors temperature and power consumption to ensure optimum performance at all times.</b></div><div class="delimiter_6"></div><div class="delimiter_6"></div><div class="delimiter_6"></div><div class="gameBlockIndex" onclick="javascript:location.hr='trailer.php?phoneId=1402&amp;trailer=mediatek&amp;sv=12d2dzy5peyn7ua23&amamamamamamamaammaammaa=ma=7amamammaammaamhr=73';">
+Building on the advanced 28nm HPM high-performance process, the MT6592 has eight CPU cores, each capable of clock speeds up to 2GHz. The true octa-core architecture is fully scalable, and the MT6592 runs both low-power and more demanding tasks equally effectively by harnessing the full capabilities of all eight cores in any combination. An advanced MediaTek scheduling algorithm also monitors temperature and power consumption to ensure optimum performance at all times.</b></div><div class="delimiter_6"></div><div class="delimiter_6"></div><div class="delimiter_6"></div><div class="gameBlockIndex" onclick="javascript:location.hr='trailer.php';">
                                         <img src="/mtk_mc5/images/2.png" alt="2" class="gameImg" />
                                         <div class="gameBlockDer">
                                             <div class="inGameBlockDer">
-                                                <div class="gameTitle"><a href="trailer.php?phoneId=1402&amp;trailer=mediatek&amp;sv=128gqvdviud2dzy5peyn7ua23&amp;c=73" title="Mediatek:">Mediatek:</a></div>
-                                                <div class="gameDescription"><a href="trailer.php?phoneId=1402&amp;trailer=mediatek&amp;sv=128gqvdviud2dzy5peyn7ua23&amp;c=73">Enjoy the power of 8
+                                                <div class="gameTitle"><a href="trailer.php" title="Mediatek:">Mediatek:</a></div>
+                                                <div class="gameDescription"><a href="trailer.php">Enjoy the power of 8
 <br/>
 
 The MT6592 is the world’s first heterogeneous computing SOC with scalable eight-core...</a></div>
@@ -116,4 +116,5 @@ The MT6592 is the world’s first heterogeneous computing SOC with scalable eigh
                     </script>
     </body>
 </html>
+
 
