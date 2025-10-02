@@ -22,14 +22,14 @@
     </head>
     <body>
         <div id="banner">
-    <a href="/mtk_mc5/index.php?phoneId=1402&amp;c=73&amp;sv=128gqvdviud2dzy5peyn7ua23" title="Gameloft HD Games for Android - Top Android Games">
+    <a href="/mtk_mc5/index.phptitlele="Gameloft HD Games for Android - Top Android Games">
         <img src="/mtk_mc5/images/gl_banner.gif" alt="Gameloft HD Games for Android - Top Android Games">
     </a>
 </div>
 <div class="clear"></div><div id="nav">
             <table>
                 <tr>
-                    <td style="width: 25%" class=""><a href="index.php?phoneId=1402&amp;sv=128gqvdviud2dzy5peyn7ua23&amp;c=73" title="Home">Home</a></td><td style="width: 25%" class=""><a href="trailer.php?phoneId=1402&amp;sv=128gqvdviud2dzy5peyn7ua23&amp;c=73" title="Trailer">Trailer</a></td><td style="width: 25%" class=""><a href="images.php?phoneId=1402&amp;sv=128gqvdviud2dzy5peyn7ua23&amp;c=73" title="Images">Images</a></td><td style="width: 25%" class=""><a href="download_page.php?phoneId=1402&amp;sv=128gqvdviud2dzy5peyn7ua23&amp;c=73" title="Download">Download</a></td>
+                    <td style="width: 25%" class=""><a href="index.php" title="Home">Home</a></td><td style="width: 25%" class=""><a href="trailer.php" title="Trailer">Trailer</a></td><td style="width: 25%" class=""><a href="images.php" title="Images">Images</a></td><td style="width: 25%" class=""><a href="download_page.php" title="Download">Download</a></td>
                 </tr>
             </table>
         </div>
@@ -40,8 +40,8 @@
     </div></div><div class="delimiter_6"></div><br/><font size="6" ><div align="center"><b>Enjoy the power of 8</b>
 <br/></div></font><div align="center"><br/><b>The MT6592 is the world’s first heterogeneous computing SOC with scalable eight-core processing for superior multi-tasking, industry-leading multimedia and excellent performance-per-watt.
 <br/>
-<br/>
-Building on the advanced 28nm HPM high-performance process, the MT6592 has eight CPU cores, each capable of clock speeds up to 2GHz. The true octa-core architecture is fully scalable, and the MT6592 runs both low-power and more demanding tasks equally effectively by harnessing the full capabilities of all eight cores in any combination. An advanced MediaTek scheduling algorithm also monitors temperature and power consumption to ensure optimum performance at all times.</b></div><div class="delimiter_6"></div><div class="delimiter_6"></div><div class="delimiter_6"></div><div class="gameBlockIndex" onclick="javascript:location.href='trailer.php?phoneId=1402&amp;trailer=mediatek&amp;sv=128gqvdviud2dzy5peyn7ua23&amp;c=73';">
+<br
+Building on the advanced 28nm HPM high-performance process, the MT6592 has eight CPU cores, each capable of clock speeds up to 2GHz. The true octa-core architecture is fully scalable, and the MT6592 runs both low-power and more demanding tasks equally effectively by harnessing the full capabilities of all eight cores in any combination. An advanced MediaTek scheduling algorithm also monitors temperature and power consumption to ensure optimum performance at all times.</b></div><div class="delimiter_6"></div><div class="delimiter_6"></div><div class="delimiter_6"></div><div class="gameBlockIndex" onclick="javascript:location.hr='trailer.php?phoneId=1402&amp;trailer=mediatek&amp;sv=12d2dzy5peyn7ua23&amamamamamamamaammaammaa=ma=7amamammaammaamhr=73';">
                                         <img src="/mtk_mc5/images/2.png" alt="2" class="gameImg" />
                                         <div class="gameBlockDer">
                                             <div class="inGameBlockDer">
@@ -116,3 +116,4 @@ The MT6592 is the world’s first heterogeneous computing SOC with scalable eigh
                     </script>
     </body>
 </html>
+
