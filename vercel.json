@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/",
-      "dest": "mtk_mc5/index.html"
+      "dest": "mtk_mc5/index.php"
     },
     {
       "src": "/(.*)",
