@@ -3,18 +3,18 @@
 <html>
     <head>
         <title>Gameloft Store</title>
-        <link rel="stylesheet" type="text/css" href="http://wapshop.gameloft.com/mtk_mc5/css/reset.css">
-        <link rel="stylesheet" type="text/css" href="http://wapshop.gameloft.com/mtk_mc5/css/style.css">
+        <link rel="stylesheet" type="text/css" href="/mtk_mc5/css/reset.css">
+        <link rel="stylesheet" type="text/css" href="/mtk_mc5/css/style.css">
 		
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-        <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/jquery.js"></script>
-        <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/cookies.js"></script>
-        <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/responsivePaginate.js"></script>
-        <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/jcarousellite.1.0.1.pack.js"></script>
-                <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/index_carousel.js"></script>
+        <script type="text/javascript" src="/mtk_mc5/js/jquery.js"></script>
+        <script type="text/javascript" src="/mtk_mc5/js/cookies.js"></script>
+        <script type="text/javascript" src="/mtk_mc5/js/responsivePaginate.js"></script>
+        <script type="text/javascript" src="/mtk_mc5/js/jcarousellite.1.0.1.pack.js"></script>
+                <script type="text/javascript" src="/mtk_mc5/js/index_carousel.js"></script>
                 </script>
-    <link rel="canonical" href="http://wapshop.gameloft.com/mtk_mc5/"/>
+    <link rel="canonical" href="/mtk_mc5/"/>
     <meta name="title" content="Top Android Games, Download HD Games for Android Now! - Gameloft" />
     <meta name="description" content="The best-quality Android games available for download at Gameloft. Amazing HD games for all Android smartphones at very low prices and for free. Find action, FPS, sports, puzzle, racing games, and much more." />
     <meta name="keywords" content="games, game, android games, download android games, games for android, free android games, android games apps, play android games, android game, android, gameloft android, gameloft, gameloft games, game loft, gameloft hd" />
@@ -22,8 +22,8 @@
     </head>
     <body>
         <div id="banner">
-    <a href="http://wapshop.gameloft.com/mtk_mc5/index.php?phoneId=1402&amp;c=73&amp;sv=128gqvduql2ud4jg4mp205ahy" title="Gameloft HD Games for Android - Top Android Games">
-        <img src="http://wapshop.gameloft.com/mtk_mc5/images/gl_banner.gif" alt="Gameloft HD Games for Android - Top Android Games">
+    <a href="/mtk_mc5/index.php?phoneId=1402&amp;c=73&amp;sv=128gqvduql2ud4jg4mp205ahy" title="Gameloft HD Games for Android - Top Android Games">
+        <img src="/mtk_mc5/images/gl_banner.gif" alt="Gameloft HD Games for Android - Top Android Games">
     </a>
 </div>
 <div class="clear"></div><div id="nav">
@@ -39,7 +39,7 @@
     </a>
 </div>
 <div class="clear"></div><div class="delimiter_6"></div><div id="bottom_nav"><div class="entry"><a href="trailer.php?phoneId=1402&amp;sv=128gqvduql2ud4jg4mp205ahy&amp;c=73" title="Trailer..."><span class="nav_arrow"></span><span class="text">Trailer...</span></a></div></div><div class="gameBlockIndex" onclick="javascript:location.href='trailer.php?phoneId=1402&amp;sv=128gqvduql2ud4jg4mp205ahy&amp;c=73';">
-                                        <img src="http://wapshop.gameloft.com/mtk_mc5/images/1.png" alt="1" class="gameImg" />
+                                        <img src="/mtk_mc5/images/1.png" alt="1" class="gameImg" />
                                         <div class="gameBlockDer">
                                             <div class="inGameBlockDer">
                                                 <div class="gameTitle"><a href="trailer.php?phoneId=1402&amp;sv=128gqvduql2ud4jg4mp205ahy&amp;c=73" title="Gameloft:">Gameloft:</a></div>
@@ -47,12 +47,13 @@
                                             </div>
                                         </div>
                                     </div><div class="delimiter_6"></div><div class="gameBlockIndex" onclick="javascript:location.href='trailer.php?phoneId=1402&amp;trailer=mediatek&amp;sv=128gqvduql2ud4jg4mp205ahy&amp;c=73';">
-                                        <img src="http://wapshop.gameloft.com/mtk_mc5/images/2.png" alt="2" class="gameImg" />
+                                        <img src="/mtk_mc5/images/2.png" alt="2" class="gameImg" />
                                         <div class="gameBlockDer">
                                             <div class="inGameBlockDer">
                                                 <div class="gameTitle"><a href="trailer.php?phoneId=1402&amp;trailer=mediatek&amp;sv=128gqvduql2ud4jg4mp205ahy&amp;c=73" title="Mediatek:">Mediatek:</a></div>
                                                 <div class="gameDescription"><a href="trailer.php?phoneId=1402&amp;trailer=mediatek&amp;sv=128gqvduql2ud4jg4mp205ahy&amp;c=73">Enjoy the power of 8
 <br/>
+
 The MT6592 is the world’s first heterogeneous computing SOC with scalable eight-core...</a></div>
                                             </div>
                                         </div>
