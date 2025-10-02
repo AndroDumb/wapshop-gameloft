@@ -22,7 +22,7 @@
     </head>
     <body>
         <div id="banner">
-    <a href="/mtk_mc5/index.phptitlele="Gameloft HD Games for Android - Top Android Games">
+    <a href="/mtk_mc5/index.php"Gameloft HD Games for Android - Top Android Games">
         <img src="/mtk_mc5/images/gl_banner.gif" alt="Gameloft HD Games for Android - Top Android Games">
     </a>
 </div>
@@ -116,5 +116,6 @@ The MT6592 is the world’s first heterogeneous computing SOC with scalable eigh
                     </script>
     </body>
 </html>
+
 
 
