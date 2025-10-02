@@ -1,9 +1,9 @@
 {
-  "build": {
-    "src": "mtk_mc5/**",
-    "use": "@vercel/static-build"
-  },
   "routes": [
+    {
+      "src": "/",
+      "dest": "mtk_mc5/index.html"
+    },
     {
       "src": "/(.*)",
       "dest": "mtk_mc5/$1"
