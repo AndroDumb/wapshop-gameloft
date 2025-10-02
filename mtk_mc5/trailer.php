@@ -3,18 +3,18 @@
 <html>
     <head>
         <title>Gameloft Store</title>
-        <link rel="stylesheet" type="text/css" href="http://wapshop.gameloft.com/mtk_mc5/css/reset.css">
-        <link rel="stylesheet" type="text/css" href="http://wapshop.gameloft.com/mtk_mc5/css/style.css">
+        <link rel="stylesheet" type="text/css" href="/mtk_mc5/css/reset.css">
+        <link rel="stylesheet" type="text/css" href="/mtk_mc5/css/style.css">
 		
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-        <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/jquery.js"></script>
-        <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/cookies.js"></script>
-        <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/responsivePaginate.js"></script>
-        <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/jcarousellite.1.0.1.pack.js"></script>
-                <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/index_carousel.js"></script>
+        <script type="text/javascript" src="/mtk_mc5/js/jquery.js"></script>
+        <script type="text/javascript" src="/mtk_mc5/js/cookies.js"></script>
+        <script type="text/javascript" src="/mtk_mc5/js/responsivePaginate.js"></script>
+        <script type="text/javascript" src="/mtk_mc5/js/jcarousellite.1.0.1.pack.js"></script>
+                <script type="text/javascript" src="/mtk_mc5/js/index_carousel.js"></script>
                 </script>
-    <link rel="canonical" href="http://wapshop.gameloft.com/mtk_mc5/"/>
+    <link rel="canonical" href="/mtk_mc5/"/>
     <meta name="title" content="Gameloft Android Games. Download Top HD Games for Android." />
     <meta name="description" content="Download Gameloft games for Android in HD. The highest-quality gaming experience for Android smartphones." />
     <meta name="keywords" content="android games, download android games, gameloft android games, gameloft android, android game" />
@@ -22,8 +22,8 @@
     </head>
     <body>
         <div id="banner">
-    <a href="http://wapshop.gameloft.com/mtk_mc5/index.php?phoneId=1402&amp;c=73&amp;sv=128gqvdviud2dzy5peyn7ua23" title="Gameloft HD Games for Android - Top Android Games">
-        <img src="http://wapshop.gameloft.com/mtk_mc5/images/gl_banner.gif" alt="Gameloft HD Games for Android - Top Android Games">
+    <a href="/mtk_mc5/index.php?phoneId=1402&amp;c=73&amp;sv=128gqvdviud2dzy5peyn7ua23" title="Gameloft HD Games for Android - Top Android Games">
+        <img src="/mtk_mc5/images/gl_banner.gif" alt="Gameloft HD Games for Android - Top Android Games">
     </a>
 </div>
 <div class="clear"></div><div id="nav">
@@ -35,19 +35,20 @@
         </div>
         <div class="clear"></div><div align="center"><div class="videoContent" id="videoContent">
  <video width="312px" height="200px" controls>
-  <source src="http://wapshop.gameloft.com/mtk_mc5/trailer.mp4" type="video/mp4">
+  <source src="/mtk_mc5/trailer.mp4" type="video/mp4">
 </video> 
     </div></div><div class="delimiter_6"></div><br/><font size="6" ><div align="center"><b>Enjoy the power of 8</b>
 <br/></div></font><div align="center"><br/><b>The MT6592 is the world’s first heterogeneous computing SOC with scalable eight-core processing for superior multi-tasking, industry-leading multimedia and excellent performance-per-watt.
 <br/>
 <br/>
 Building on the advanced 28nm HPM high-performance process, the MT6592 has eight CPU cores, each capable of clock speeds up to 2GHz. The true octa-core architecture is fully scalable, and the MT6592 runs both low-power and more demanding tasks equally effectively by harnessing the full capabilities of all eight cores in any combination. An advanced MediaTek scheduling algorithm also monitors temperature and power consumption to ensure optimum performance at all times.</b></div><div class="delimiter_6"></div><div class="delimiter_6"></div><div class="delimiter_6"></div><div class="gameBlockIndex" onclick="javascript:location.href='trailer.php?phoneId=1402&amp;trailer=mediatek&amp;sv=128gqvdviud2dzy5peyn7ua23&amp;c=73';">
-                                        <img src="http://wapshop.gameloft.com/mtk_mc5/images/2.png" alt="2" class="gameImg" />
+                                        <img src="/mtk_mc5/images/2.png" alt="2" class="gameImg" />
                                         <div class="gameBlockDer">
                                             <div class="inGameBlockDer">
                                                 <div class="gameTitle"><a href="trailer.php?phoneId=1402&amp;trailer=mediatek&amp;sv=128gqvdviud2dzy5peyn7ua23&amp;c=73" title="Mediatek:">Mediatek:</a></div>
                                                 <div class="gameDescription"><a href="trailer.php?phoneId=1402&amp;trailer=mediatek&amp;sv=128gqvdviud2dzy5peyn7ua23&amp;c=73">Enjoy the power of 8
 <br/>
+
 The MT6592 is the world’s first heterogeneous computing SOC with scalable eight-core...</a></div>
                                             </div>
                                         </div>
@@ -88,7 +89,7 @@ The MT6592 is the world’s first heterogeneous computing SOC with scalable eigh
                 });
 
                 </script>
-                    <script type="text/javascript" src="http://wapshop.gameloft.com/mtk_mc5/js/carousel.js"></script>
+                    <script type="text/javascript" src="/mtk_mc5/js/carousel.js"></script>
                     <script type="text/javascript">
                         window.onload = function() {
                             new Carousel({
