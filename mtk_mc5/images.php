@@ -23,14 +23,14 @@
     </head>
     <body>
         <div id="banner">
-    <a href="/mtk_mc5/index.php?phoneId=1402&amp;c=73&amp;sv=128gqvdvknmfy8x6mujyggsgn" title="Gameloft HD Games for Android - Top Android Games">
+    <a href="/mtk_mc5/index.php" title="Gameloft HD Games for Android - Top Android Games">
         <img src="/mtk_mc5/images/gl_banner.gif" alt="Gameloft HD Games for Android - Top Android Games">
     </a>
 </div>
 <div class="clear"></div><div id="nav">
             <table>
                 <tr>
-                    <td style="width: 25%" class=""><a href="index.php?phoneId=1402&amp;sv=128gqvdvknmfy8x6mujyggsgn&amp;c=73" title="Home">Home</a></td><td style="width: 25%" class=""><a href="trailer.php?phoneId=1402&amp;sv=128gqvdvknmfy8x6mujyggsgn&amp;c=73" title="Trailer">Trailer</a></td><td style="width: 25%" class=""><a href="images.php?phoneId=1402&amp;sv=128gqvdvknmfy8x6mujyggsgn&amp;c=73" title="Images">Images</a></td><td style="width: 25%" class=""><a href="download_page.php?phoneId=1402&amp;sv=128gqvdvknmfy8x6mujyggsgn&amp;c=73" title="Download">Download</a></td>
+                    <td style="width: 25%" class=""><a href="index.php" title="Home">Home</a></td><td style="width: 25%" class=""><a href="trailer.php" title="Trailer">Trailer</a></td><td style="width: 25%" class=""><a href="images.php" title="Images">Images</a></td><td style="width: 25%" class=""><a href="download_page.php" title="Download">Download</a></td>
                 </tr>
             </table>
         </div>
@@ -98,3 +98,4 @@
                     </script>
     </body>
 </html>
+
